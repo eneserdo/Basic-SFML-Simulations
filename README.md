@@ -3,6 +3,8 @@ This project visulizes the Newton's law of universal gravitation via SFML librar
 
 The purpose of this fun project was to practice object oriented programming methodology using C++ language.
 
+Note that formulas were used directly without any manipulation, so calculation parts are not optimum.
+
 ## Menu
 
 Once completed, there will be different setups:
