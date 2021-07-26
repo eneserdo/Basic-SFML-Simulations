@@ -26,3 +26,15 @@ Once completed, there will be different setups:
 - <kbd>C</kbd> Use curser as a mass
 - <kbd>G</kbd> On/off the gravity.
 - <kbd>B</kbd> On/off the boundaries.
+
+
+## Resources
+
+N-Body simulation requires highly complex approches to model them, actually when N>2 complete solution is not possible. 
+
+To build 3D view, I used camera matrices and quaternions. Quaternions are very fun part of the geometric algebra. Here some links to learn them about:
+- [A Swift Introduction to Geometric Algebra](https://youtu.be/60z_hpEAtD8)
+- [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
+
+
+
